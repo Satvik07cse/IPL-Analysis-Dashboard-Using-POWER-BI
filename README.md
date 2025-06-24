@@ -1,4 +1,5 @@
 🏏 IPL Analysis Dashboard (2008 - 2022)
+
 This Power BI dashboard provides an in-depth visual analysis of the Indian Premier League (IPL) across 15 seasons (2008 to 2022). The dashboard allows users to explore and compare team performances, player stats, match results, and tournament insights interactively.
 
 📌 Key Features
