@@ -60,8 +60,6 @@ Toss decisions
 
 Stadium-wise outcomes
 
-Source: Kaggle / Cricsheet / Official IPL stats (depending on your actual source)
-
 🛠️ Tools & Technologies
 Power BI Desktop: For building interactive visuals
 
